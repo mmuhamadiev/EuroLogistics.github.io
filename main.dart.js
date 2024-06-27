@@ -87798,7 +87798,7 @@ zb(){var s=0,r=A.a2(t.H),q=this,p,o,n,m
 var $async$zb=A.a3(function(a,b){if(a===1)return A.a_(b,r)
 while(true)switch(s){case 0:m=B.cr
 s=2
-return A.a7($.a08().ami("assets/json/all_postalcodes.json"),$async$zb)
+return A.a7($.a08().ami("resources/json/all_postalcodes.json"),$async$zb)
 case 2:o=m.di(0,b)
 n=J.bS(o)
 A.oY(n.gN(o))
