@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9054d73e-eb45-4b0b-b087-a72e8b98cf32" name="Changes" comment="main-7" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2iSRkMgst3bxvjeBeqF2wad0DUF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/red/Documents/work/logistics/web&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9054d73e-eb45-4b0b-b087-a72e8b98cf32" name="Changes" comment="" />
+      <created>1719482133279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719482133279</updated>
+    </task>
+    <task id="LOCAL-00001" summary="main-1">
+      <option name="closed" value="true" />
+      <created>1719482223934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719482223934</updated>
+    </task>
+    <task id="LOCAL-00002" summary="main-1">
+      <option name="closed" value="true" />
+      <created>1719482763645</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719482763645</updated>
+    </task>
+    <task id="LOCAL-00003" summary="main-1">
+      <option name="closed" value="true" />
+      <created>1719482970046</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719482970046</updated>
+    </task>
+    <task id="LOCAL-00004" summary="main-1">
+      <option name="closed" value="true" />
+      <created>1719486731879</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719486731879</updated>
+    </task>
+    <task id="LOCAL-00005" summary="main-3">
+      <option name="closed" value="true" />
+      <created>1719488418068</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719488418068</updated>
+    </task>
+    <task id="LOCAL-00006" summary="main-3">
+      <option name="closed" value="true" />
+      <created>1719491216935</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719491216935</updated>
+    </task>
+    <task id="LOCAL-00007" summary="main-3">
+      <option name="closed" value="true" />
+      <created>1719491483361</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1719491483361</updated>
+    </task>
+    <task id="LOCAL-00008" summary="main-3">
+      <option name="closed" value="true" />
+      <created>1719491681141</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1719491681141</updated>
+    </task>
+    <task id="LOCAL-00009" summary="main-4">
+      <option name="closed" value="true" />
+      <created>1719492173821</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1719492173821</updated>
+    </task>
+    <task id="LOCAL-00010" summary="main-5">
+      <option name="closed" value="true" />
+      <created>1719495059991</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1719495059991</updated>
+    </task>
+    <task id="LOCAL-00011" summary="main-6">
+      <option name="closed" value="true" />
+      <created>1719496401233</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1719496401233</updated>
+    </task>
+    <task id="LOCAL-00012" summary="main-7">
+      <option name="closed" value="true" />
+      <created>1719497210957</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1719497210957</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="main-1" />
+    <MESSAGE value="main-3" />
+    <MESSAGE value="main-4" />
+    <MESSAGE value="main-5" />
+    <MESSAGE value="main-6" />
+    <MESSAGE value="main-7" />
+    <option name="LAST_COMMIT_MESSAGE" value="main-7" />
+  </component>
+</project>
